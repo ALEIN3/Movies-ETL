@@ -1,6 +1,6 @@
 # Movies-ETL Project
 
-## I used for this project:
+### I used for this project:
 
 Python, Anaconda Navigator, Jupyter Notebook 6.0.3, PostgreSQL, pgAdmin 4
 
@@ -34,6 +34,11 @@ The Kaggle and rating data were then merged with the Wikipedia movies DataFrame.
 ### Load the data to a PostgreSQL Movie Database
 
 We loaded the movies_df  and MovieLens rating CSV files to a SQL database.
+
+![](https://github.com/ALEIN3/Movies-ETL/blob/main/resources/movies_query.png)
+
+![](https://github.com/ALEIN3/Movies-ETL/blob/main/resources/ratings_query.png)
+
 
 ## Summary
 
