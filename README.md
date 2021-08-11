@@ -1,5 +1,9 @@
 # Movies-ETL Project
 
+## I used for this project:
+
+Python, Anaconda Navigator, Jupyter Notebook 6.0.3, PostgreSQL, pgAdmin 4
+
 
 ## Project Overview
 
@@ -11,17 +15,6 @@ For this analysis, we used the following breakdown:
 2.	Extract and transform the Wikipedia data.
 3.	Extract and transform the Kaggle and rating data.
 4.	Load the data to a PostgreSQL Movie Database.
-
-## Resources
-
-### Data Source:
-wikipedia-movies.json
-movies_metadata.csv
-ratings.csv
-
-### I used for this project the following:
-
-Python, Anaconda Navigator, Jupyter Notebook 6.0.3, PostgreSQL, pgAdmin 4
 
 ## Results
 
